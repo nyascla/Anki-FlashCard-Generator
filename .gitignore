@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C runtime files
+*.so
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+
+# Git files
+.git/
+
+# PyCharm files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Visual Studio Code files
+.vscode/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Environment configuration files
+.venv/
+.env/
+
+# Logs
+*.log
