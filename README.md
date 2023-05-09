@@ -1,5 +1,4 @@
 # Anki Flash Card Generator
 
-Este es un proyecto creado para uso personal.
-El objetivo es convertir una lista
-de palabras escritas en Inglés-Español en Flash Cards listas para utilizar
+Traduce automaticamente las palabras subrayadas en un kindle y 
+genera un fichero en formato .csv par importar en aki
