@@ -34,3 +34,5 @@ eggs/
 
 # Logs
 *.log
+
+/API_KEYS.py
