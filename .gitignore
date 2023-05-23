@@ -36,6 +36,5 @@ eggs/
 *.log
 
 /src/API_KEYS.py
-/AnkiFlashCards/
-./words.json
-
+/Cards/
+/src/words.json

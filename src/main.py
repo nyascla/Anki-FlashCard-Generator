@@ -63,7 +63,7 @@ if __name__ == '__main__':
         datos = json.load(archivo)
 
     # Generar nuevas traducciones
-    with open(f"./AnkiFlashCards/{file_name}.txt", 'w', encoding='utf-8') as AnkiCadsFile:
+    with open(f"./Cards/{file_name}.txt", 'w', encoding='utf-8') as AnkiCadsFile:
         for word in retrieve_words_from_boook():
             if word not in datos[word[:1]]["words"]:
                 translator = Translator(to_lang="es")
