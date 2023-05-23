@@ -35,4 +35,7 @@ eggs/
 # Logs
 *.log
 
-/API_KEYS.py
+/src/API_KEYS.py
+/AnkiFlashCards/
+./words.json
+
